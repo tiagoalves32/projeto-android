@@ -46,7 +46,7 @@
    font-family: var(--fonte-destaque);
    font-weight: normal;
    font-size: 3.0em;
-   margin-bottom: 20px;
+   padding-bottom: 20px;
    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.274);
 
  }
@@ -58,6 +58,7 @@
    margin: auto;
    padding-left: 10px;
    padding-right: 10px;
+   padding-bottom: 40px;
    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.233);
 
  }
